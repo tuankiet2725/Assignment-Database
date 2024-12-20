@@ -19,9 +19,9 @@ max_weight = 500  # Maximum weight the truck can carry (kg)
 max_volume = 2000  # Maximum volume the truck can carry (cubic meters)
 
 # Cost rates
-rate_per_kg_km = 5000
-rate_per_m3_km = 2000
-rate_per_km = 10000
+rate_per_kg_km = 50
+rate_per_m3_km = 20
+rate_per_km = 100
 
 # Main Application Class
 class TruckDeliveryApp:
