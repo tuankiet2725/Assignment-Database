@@ -2,7 +2,7 @@ import pandas as pd
 from tkinter import Tk, filedialog
 
 # Truck capacities
-max_weight = 1000
+max_weight = 500
 max_volume = 2000
 
 distance_matrix = {
